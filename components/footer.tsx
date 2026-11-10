@@ -10,22 +10,22 @@ export default function Footer() {
         <div className='mt-4 pb-4 text-center'>
         {/*student*/}
         <div>
-          <Badge className='text-xl text-black rounded-lg'>68060537 ปัญญวัฒน์ ศิริรัชทรัพย์</Badge>
+          <Badge className='text-xl text-black rounded-lg'>68063830 อภิสิทธิ์ อัตไพบูลย์</Badge>
         </div>
         {/*contact*/}
         <div>
             <div className='mt-4 flex justify-center gap-6'>
-                <Link href="https://www.facebook.com/SLCDGT5?locale=th_TH" target="_blank">
+                <Link href="https://www.facebook.com/best.attaphaiboon" target="_blank">
                 <Facebook className="text-blue-700" />
                 </Link>
                 <div className="border-l-1"></div>
 
-                <Link href="https://discordapp.com/users/1438815643351777342" target="_blank">
+                <Link href="https://discord.com/users/1511512076202410004" target="_blank">
                     <Discord className="text-blue-900" />
                 </Link>
                 <div className="border-l-1"></div>
 
-                <Link href="https://www.instagram.com/pnyw.to?igsh=cXdkazI3dms4dnli" target="_blank">
+                <Link href="https://www.instagram.com/tseq.l3/" target="_blank">
                     <Instagram className="text-pink-500" />
                 </Link>
 

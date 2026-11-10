@@ -21,9 +21,8 @@ export default function Home() {
 />
 
           <div className="p-2 text-sm">
-            <b>ชื่อ ปัญญวัฒน์ ศิริรัชทรัพย์</b>
+            <b>ชื่อ อภิสิทธิ์ อัตไพบูลย์</b>
             <p>Computer Science and Software Development</p>
-            <p>School of Information Technology (SIT)</p>
             <p>Sripatum University (SPU)</p>
           </div>
         </div>
